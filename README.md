@@ -1,2 +1,2 @@
 # AdityaL1-MAG
-Where invisible fields leave traces.
+Processing and analysis of Aditya-L1 MAG data.
